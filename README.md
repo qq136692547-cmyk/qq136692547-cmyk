@@ -27,7 +27,7 @@ I build pragmatic, source-available tools for developers, AI workflow engineers,
 | **[QuickNote](https://github.com/qq136692547-cmyk/QuickNote)** | Local-First Tools | Offline-first AI developer scratchpad built with Rust + Tauri & 100% local SQLite vault | [Live Site](https://quicknote-official.pages.dev) |
 | **[bookmark-health-master](https://github.com/qq136692547-cmyk/bookmark-health-master)** | Local-First Tools | Chrome MV3 bookmark auditor with Dual-Stage DoH diagnostics, clustering & atomic undo | [Live Site](https://bhm-pro-ern.pages.dev/) |
 | **[Magpie MCP Plugins](https://qq136692547-cmyk.github.io/)** | AI & Gemini Plugins | [Media Tools](https://github.com/qq136692547-cmyk/magpie-gemini-media-tools), [Google AI Studio Provider](https://github.com/qq136692547-cmyk/magpie-google-aistudio), and [Search Grounding](https://github.com/qq136692547-cmyk/magpie-gemini-search) | [Catalog](https://qq136692547-cmyk.github.io/) |
-| **[anan-devtools](https://github.com/qq136692547-cmyk/anan-devtools)** | Web Utilities | 21 free client-side developer utilities (UUID, JWT, Base64, JSON, Regex, Cron) with zero tracking | [Live Demo](https://anan.zh.kg) |
+| **[deng-tts-tools](https://github.com/qq136692547-cmyk/deng-tts-tools)** | E-Commerce Tools | Free TikTok Shop seller suite: fee calculator, profit calculator & Amazon vs TikTok Shop comparison | [Live Demo](https://ttcalc.shop/) |
 
 > Browse the complete bilingual catalog of all 11 open-source projects at **[qq136692547-cmyk.github.io](https://qq136692547-cmyk.github.io/)**.
 
